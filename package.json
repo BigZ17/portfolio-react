@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-react",
+  "version": "1.0.0",
+  "description": "A portfolio using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigZ17/portfolio-react.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Zac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigZ17/portfolio-react/issues"
+  },
+  "homepage": "https://github.com/BigZ17/portfolio-react#readme"
+}
