@@ -1,26 +1,29 @@
 {
-  "name": "portfolio-react",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "A portfolio using react",
+  "description": "Portfolio",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "javascript": "^1.0.0",
+    "node": "^16.1.0",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BigZ17/portfolio-react.git"
+    "url": "git+https://github.com/Zcrav17/Portfolio.git"
   },
   "keywords": [
     "portfolio"
   ],
-  "author": "Zac",
+  "author": "Zcrav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BigZ17/portfolio-react/issues"
+    "url": "https://github.com/Zcrav17/Portfolio/issues"
   },
-  "homepage": "https://github.com/BigZ17/portfolio-react#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "react": "^17.0.1"
-  }
+  "homepage": "https://github.com/Zcrav17/Portfolio#readme"
 }
